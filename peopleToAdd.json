@@ -1,0 +1,30 @@
+[
+  {
+    "_id":{
+      "timestamp":1603120448,
+      "randomValue1":351143,
+      "randomValue2":22561,
+      "counter":3867104
+    },
+    "fname":"Bob",
+    "lname":"Hall",
+    "addr":"1142 Generic St.",
+    "city":"Dallas",
+    "state":"Tx",
+    "zipcode":"88943"
+  },
+  {
+    "_id":{
+      "timestamp":1603120520,
+      "randomValue1":351143,
+      "randomValue2":22561,
+      "counter":3867105
+    },
+    "fname":"Jannet",
+    "lname":"Paulson",
+    "addr":"548913 Other Address Ln.",
+    "city":"Los Angeles",
+    "state":"CA",
+    "zipcode":"94716"
+  }
+]
