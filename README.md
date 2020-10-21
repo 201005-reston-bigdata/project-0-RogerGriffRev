@@ -21,3 +21,9 @@ A Scala CLI (Command Line Interface) application.  Data should be parsed from a 
 - Project 0 will be presented Wednesday, October 21 (Wednesday week 3)
 
 Finishing your MVP (Minimum Viable Product) as early as possible before iterating new features upon the project is highly recommended.  Plan ahead, and be sure to reach out to others when you need guidance (or offer your own to those in need)
+
+
+## Project 0
+-The project is called AddBook for Address Book. This project is for storing People and their Addresses into something similar to an Address Book. The project currently stores the person's name, street address, city, state and zipcode
+
+-There is an option to import from a .json file, or you can manually enter single entries.
